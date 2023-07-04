@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#1E90FF</color>
+    <color name="purple_700">#00BFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_translucent">#80000000</color>
+    <color name="rv_bg">#F2F2F2</color>
+    <color name="light_gray">#D3D3D3</color>
+
+    <color name="theme_color">#4169E1</color>
+<!--    #D3D3D3、#C0C0C0 和 #F5F5F5-->
+</resources>

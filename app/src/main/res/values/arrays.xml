@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="count_options">
+        <item>总库存</item>
+        <item>销售产品</item>
+        <item>低库存</item>
+        <item>供应商产品</item>
+        <item>价格分布</item>
+    </string-array>
+
+</resources>

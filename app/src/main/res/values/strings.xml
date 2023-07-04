@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">jxc</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="goods_name">商品名字</string>
+    <string name="goods_price">商品价格</string>
+    <string name="goods_stock">商品库存</string>
+    <string name="dialog_btn_ok">确认</string>
+    <string name="toast_empty_name">名字不能为空</string>
+    <string name="toast_empty_price">价格不能为空</string>
+    <string name="toast_empty_stock">库存不能为空</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="toast_add_failed">数据添加失败</string>
+    <string name="toast_add_success">数据添加成功</string>
+    <string name="toast_edt_failed">数据编辑失败</string>
+    <string name="toast_edt_success">数据编辑成功</string>
+    <string name="add">添加商品</string>
+    <string name="ed">查询商品</string>
+    <string name="delall">清空商品</string>
+    <string name="dialog_title_clear_goods">商品清空 </string>
+    <string name="dialog_msg_clear_goods">确认清空商品？</string>
+    <string name="dialog_title_all_products">查询所有商品</string>
+    <string name="dialog_add_role_title">添加角色</string>
+    <string name="dialog_edit_role_title">编辑角色</string>
+    <string name="dialog_delete_role_title">删除角色</string>
+    <string name="dialog_delete_role_message">确认是否删除角色</string>
+    <string name="action_add">添加</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="库存管理"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/product_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="产品名称" />
+
+    <EditText
+        android:id="@+id/quantity_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="数量" />
+    <EditText
+        android:id="@+id/price_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="价格" />
+    <EditText
+        android:id="@+id/supplier_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="供应商的名字" />
+    <EditText
+        android:id="@+id/supplier_phone_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="供应商的电话" />
+
+    <EditText
+        android:id="@+id/quantity_sold_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="已售数量" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加到库存" />
+
+    <Button
+        android:id="@+id/subtract_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="从库存中减去" />
+
+    <Button
+        android:id="@+id/query_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查询库存" />
+
+    <TextView
+        android:id="@+id/inventory_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text=""
+        android:textSize="18sp" />
+
+</LinearLayout>
